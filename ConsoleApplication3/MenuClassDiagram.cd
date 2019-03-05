@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MenuItemModel">
+    <Position X="5.75" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABkAAACAAAAAAAAAAAAACAAAAACAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="subMenu" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MenuModel">
+    <Position X="1" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQJAAAAAAAAAQAAAAAAAAAAAAgAAJAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuViewer">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubMenuModel">
+    <Position X="1.25" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuView">
+    <Position X="10.25" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAACAAAAAAAAAIAAIAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="menuModel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MenuConsoleView">
+    <Position X="10" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAEQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
